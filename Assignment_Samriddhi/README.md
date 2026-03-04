@@ -34,22 +34,15 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 1. Clone this repository:
-
 git clone [https://github.com/sushant440/react_assignment.git]
-Navigate to the project folder:
 
 2. Navigate to the project folder:
-
 cd student-directory
-Install dependencies:
 
 3. Install dependencies:
-
 npm install
-Start the development server:
 
 4. Start the development server:
-
 npm start
 
 
