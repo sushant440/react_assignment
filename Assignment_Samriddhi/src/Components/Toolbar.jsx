@@ -42,8 +42,8 @@ export default function Toolbar({
 
       <select value={filterStatus} onChange={(e) => setFilterStatus(e.target.value)}>
         <option value="all">All Status</option>
-        <option value="present">Active</option>
-        <option value="absent">Inactive</option>
+        <option value="present">Present</option>
+        <option value="absent">Absent</option>
       </select>
 
       <Button variant="outline" onClick={() => setShowForm(!showForm)}>
