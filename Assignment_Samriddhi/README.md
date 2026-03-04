@@ -18,15 +18,27 @@ This is a polished React student directory designed to handle academic tracking 
 - **CSS / Responsive Design**
 
 ---
-## Screenshots
+## 📸 Screenshots
 
-Assignment_Samriddhi/Screenshots/Darkmode and GridView.png 
-Assignment_Samriddhi/Screenshots/Lightmode and List View.png 
-Assignment_Samriddhi/Screenshots/search by name.png 
-Assignment_Samriddhi/Screenshots/sort by grade.png 
-Assignment_Samriddhi/Screenshots/sort by individual course.png 
-Assignment_Samriddhi/Screenshots/sorting by status.png
+To demonstrate the application's responsiveness and functionality, here are the core UI states:
 
+### 🌗 Themes & Layouts
+| Light Mode (List View) | Dark Mode (Grid View) |
+|---|---|
+| ![Light Mode](./Assignment_Samriddhi/Screenshots/Lightmode_and_List_View.png) |
+  ![Dark Mode](./Assignment_Samriddhi/Screenshots/Darkmode_and_GridView.png) |
+
+### 🔍 Search & Filtering
+| Search by Name | Attendance Status |
+|---|---|
+| ![Search](./Assignment_Samriddhi/Screenshots/search_by_name.png) |
+  ![Status](./Assignment_Samriddhi/Screenshots/sorting_by_status.png) |
+
+### 📊 Sorting & Performance
+| Sort by Grade | Filter by Course |
+|---|---|
+| ![Sort Grade](./Assignment_Samriddhi/Screenshots/sort_by_grade.png) | 
+  ![Course Filter](./Assignment_Samriddhi/Screenshots/sort_by_individual_course.png) |
 ---
 ## 💻 Setup Instructions
 
